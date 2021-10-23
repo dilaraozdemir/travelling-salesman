@@ -11,4 +11,7 @@ Type the following command into the command prompt.
 	python main.py
 	
 **NOTE** 📝 Close the screen below to print the shortest path as a value on the screen.
+
+
+
 ![image](/images/pygame-screen.png)
